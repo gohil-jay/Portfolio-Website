@@ -24,4 +24,4 @@ Check the website at [jay-gohil.ml](http://jay-gohil.ml/)
 
 ![Website Screenshot 21](https://github.com/gohil-jay/Portfolio-Website/blob/main/screenshots/Screenshot-21.jpg?raw=true)
 
-Check out the website at [jay-gohil.ml](http://jay-gohil.ml/). To provide any kind of feedback, you can reach me via mail or on LinkedIn.
+Check out the website at [jay-gohil.ml](http://jay-gohil.ml/). To provide any kind of feedback, you can reach me via mail or contact me through LinkedIn.
