@@ -1,4 +1,6 @@
 .spinner-wrapper {
+  height: 100vh;
+  width: 100vw;
   position: fixed;
   top: 0;
   left: 0;
@@ -8,18 +10,67 @@
   z-index: 99999;
 }
 
-.spinner {
+.sk-cube-grid {
   width: 40px;
   height: 40px;
+  margin: auto;
+  margin-top: 49vh !important;
+}
+
+.sk-cube-grid .sk-cube {
+  width: 33%;
+  height: 33%;
   background-color: rgb(255, 255, 255);
-  position: absolute;
-  top: 48%;
-  left: 48%;
-  -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
-  animation: sk-rotateplane 1.2s infinite ease-in-out;
+  float: left;
+  -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
+  animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
 }
 
-@keyframes sk-rotateplane {
-  /*Keyframes not mentioned to reduce the direct copy of work.*/
+.sk-cube-grid .sk-cube1 {
+  -webkit-animation-delay: 0.2s;
+  animation-delay: 0.2s;
 }
 
+.sk-cube-grid .sk-cube2 {
+  -webkit-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+}
+
+.sk-cube-grid .sk-cube3 {
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+
+.sk-cube-grid .sk-cube4 {
+  -webkit-animation-delay: 0.1s;
+  animation-delay: 0.1s;
+}
+
+.sk-cube-grid .sk-cube5 {
+  -webkit-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+}
+
+.sk-cube-grid .sk-cube6 {
+  -webkit-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+}
+
+.sk-cube-grid .sk-cube7 {
+  -webkit-animation-delay: 0s;
+  animation-delay: 0s;
+}
+
+.sk-cube-grid .sk-cube8 {
+  -webkit-animation-delay: 0.1s;
+  animation-delay: 0.1s;
+}
+
+.sk-cube-grid .sk-cube9 {
+  -webkit-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+}
+
+@keyframes sk-cubeGridScaleDelay {
+/* Keyframes not mentioned to reduce copy of work */
+}
