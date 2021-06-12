@@ -3,12 +3,8 @@ The repository for my personal portfolio website consisting of my work, experien
 
 Check the website at [jay-gohil.ml](https://jay-gohil.ml/)
 
-<p align="center">
-  <img src="/screenshots/JayGohil.gif" alt="animated" />
+<p style="text-align: center;">
+  <img src="/screenshots/JayGohil.gif" alt="animated">
 </p>
 
-<!--
-![Website Screenshot](https://github.com/gohil-jay/Portfolio-Website/blob/main/screenshots/Screenshot-1.png?raw=true)
--->
-
-Check out the website at [jay-gohil.ml](https://jay-gohil.ml/). To provide any kind of feedback, you can reach me via mail or contact me through LinkedIn.
+Check out the live website at [jay-gohil.ml](https://jay-gohil.ml/). To provide any kind of feedback, you can reach me via mail or contact me through LinkedIn.
