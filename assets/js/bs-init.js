@@ -70,7 +70,15 @@ $(document).ready(function(){
 	}
 
 	function update(){
-    // Code for perfect timing. [Complete code not mentioned to reduce chances of direct copy.]
+
+		for(var i = 0; i < visible.length; i++){
+			var rect = visible[i].rect;
+			var node = visible[i].node;
+
+			var quot = Math.max(rect.bottom, 0) / (window.innerHeight + rect.height);
+
+			node.style.transform = 'translate3d(0, '+(-50*quot)+'%, 0)';
+		}
 
 	}
 
