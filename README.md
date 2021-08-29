@@ -1,5 +1,5 @@
-# Portfolio-Website
-The repository for my personal portfolio website consisting of my work, experiences, achievements and certifications. The website is based on the bootstrap framework and uses the AOS library for animations.
+# Portfolio Website
+This repository is dedicated for my personal portfolio website consisting of my work, experiences, achievements and certifications; based on the bootstrap framework alongwith AOS library for animations.
 
 Check the website at [jay-gohil.me](https://jay-gohil.me/)
 
