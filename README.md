@@ -7,4 +7,4 @@ Check the website at [jay-gohil.me](https://jay-gohil.me/)
   <img src="/screenshots/JayGohil.gif" alt="animated">
 </p>
 
-Check out the live website at [jay-gohil.me](https://jay-gohil.me/). To provide any kind of feedback, you can reach me via mail or contact me through LinkedIn.
+Check out the live website at [jay-gohil.me](https://jay-gohil.me/). To provide any kind of feedback, you can reach me via [mail](mailto:jay.gohil.info@gmail.com) or contact me through [LinkedIn](https://www.linkedin.com/in/jay--gohil/).
