@@ -292,3 +292,20 @@
   background-image: linear-gradient(to bottom right, #00415f, #088bc9);
   transform: skewY(-4deg);
 }
+
+/* --------------------------- Certifications Page --------------------------- */
+
+.gradientText {
+  text-transform: uppercase;
+  background: linear-gradient(to right, #00c4cc 0%, #7c2ae8 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@media only screen and (max-width: 1200px) {
+  .cert {
+    background-image: url(../../assets/img/BW2.png) !important;
+  }
+}
+
