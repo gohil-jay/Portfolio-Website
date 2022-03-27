@@ -368,6 +368,36 @@
   }
 }
 
+/* --------------------------- Event Page --------------------------- */
+
+.eveText {
+  text-align: right !important;
+  padding-left: 150px;
+}
+
+.eventDiv {
+  color: #ffffff;
+  width: 100%;
+  height: 300px;
+  border-radius: 5px !important;
+  margin-left: -100px;
+}
+
+.eventDiv p {
+  margin-left: 10%;
+  margin-right: 40%;
+}
+
+.eventDiv p:first-of-type {
+  padding-top: 15% !important;
+}
+
+.eventImg {
+  width: 350px !important;
+  margin-left: 50%;
+  margin-top: -60%;
+  z-index: 99999 !important;
+}
 
 /* --------------------------- Projects Page --------------------------- */
 
