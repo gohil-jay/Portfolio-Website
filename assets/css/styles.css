@@ -564,6 +564,66 @@
   -webkit-text-fill-color: transparent;
 }
 
+.eventDiv1 {
+  background-image: linear-gradient(to right, #00c4cc 0%, #7c2ae8 100%) !important;
+}
+
+.eventDiv2 {
+  background-image: linear-gradient(to right, #bb0000 0%, #ff0043 100%) !important;
+}
+
+.eventDiv3 {
+  background-image: linear-gradient(to right, #2d31f3 0%, #00a2ff 100%) !important;
+}
+
+.eventDiv4 {
+  background-image: linear-gradient(to right, #d31093 0%, #1846fa 100%) !important;
+}
+
+.eventDiv5 {
+  background-image: linear-gradient(to right, #002366 0%, #004fe4 100%) !important;
+}
+
+.eventDiv6 {
+  background-image: linear-gradient(to right, #c95700 0%, #ff630c 100%) !important;
+}
+
+.eventDiv7 {
+  background-image: linear-gradient(to right, #96c93d 0%, #00b09b 100%) !important;
+}
+
+.eventDiv8 {
+  background-image: linear-gradient(to right, #ff914d 0%, #ffde59 100%) !important;
+}
+
+.eventDiv9 {
+  background-image: linear-gradient(to right, #004aad 0%, #38b6ff 100%) !important;
+}
+
+.eventDiv10 {
+  background-image: linear-gradient(to right, #d3a200 0%, #ffd23c 100%) !important;
+}
+
+.eventDiv11 {
+  background-image: linear-gradient(to right, #450053 0%, #9c0fb8 100%) !important;
+}
+
+.eventDiv12 {
+  background-image: linear-gradient(to right, #ffa300 0%, #fa4703 100%) !important;
+}
+
+.eventDiv13 {
+  background-image: linear-gradient(to right, #330092 0%, #6f42c1 100%) !important;
+}
+
+.eventDiv14 {
+  background-image: linear-gradient(to right, #001b7a 0%, #345ffd 100%) !important;
+}
+
+.eventDiv15 {
+  background-image: linear-gradient(to right, #ac45d4 0%, #6f00ff 100%) !important;
+}
+
 /* --------------------------- Projects Page --------------------------- */
 
 .projectDiv {
