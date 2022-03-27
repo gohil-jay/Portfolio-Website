@@ -146,6 +146,16 @@
   }
 }
 
+.eventImage {
+  border-radius: 20px;
+}
+
+.eventTextPop {
+  border-radius: 50px;
+  color: #fff;
+  text-align: center;
+}
+
 .footerLinks {
   border-radius: 30px;
   margin: auto;
