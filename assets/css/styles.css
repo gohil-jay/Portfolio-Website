@@ -624,6 +624,27 @@
   background-image: linear-gradient(to right, #ac45d4 0%, #6f00ff 100%) !important;
 }
 
+/* --------------------------- Accomplishments Page --------------------------- */
+
+.paddingAcc {
+  padding: 60px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .paddingAcc {
+    padding: 30px;
+  }
+}
+
+.containerAcc {
+  padding: 20px;
+  background: rgba( 255, 255, 255, 0.25 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 20px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
 /* --------------------------- Projects Page --------------------------- */
 
 .projectDiv {
