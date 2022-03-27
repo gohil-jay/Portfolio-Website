@@ -399,6 +399,51 @@
   z-index: 99999 !important;
 }
 
+@media only screen and (max-width: 1200px) {
+  .eventImg {
+    display: block;
+    width: 250px !important;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -40px;
+    z-index: 99999 !important;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .eveText {
+    text-align: center !important;
+    padding-left: 0;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .eventDiv {
+    height: 230px;
+    margin-left: 0;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .eventDiv p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .eventDiv p:first-of-type {
+    padding-top: 10% !important;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .eveGradientText {
+    margin-top: 50px;
+  }
+}
+
 /* --------------------------- Projects Page --------------------------- */
 
 .projectDiv {
