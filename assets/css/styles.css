@@ -332,6 +332,26 @@
   transform: skewY(-4deg);
 }
 
+.exp33 {
+  background-image: linear-gradient(to bottom right, #f300a6, #85005b);
+  transform: skewY(-4deg);
+}
+
+.exp34 {
+  background-image: linear-gradient(to bottom right, #2885ff, #00193a);
+  transform: skewY(-4deg);
+}
+
+.exp35 {
+  background-image: linear-gradient(to bottom right, #7c48d6, #4813a3);
+  transform: skewY(-4deg);
+}
+
+.exp36 {
+  background-image: linear-gradient(to bottom right, #ffd000, #d6af00);
+  transform: skewY(-4deg);
+}
+
 /* --------------------------- Certifications Page --------------------------- */
 
 .gradientText {
