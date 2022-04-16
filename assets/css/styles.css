@@ -672,6 +672,17 @@
   }
 }
 
+.headAcc {
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 1200px) {
+  .headAcc {
+    font-size: 30px;
+  }
+}
+
 /* --------------------------- Projects Page --------------------------- */
 
 .projectDiv {
