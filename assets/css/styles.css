@@ -645,6 +645,16 @@
   border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
+.imageSection {
+  padding: 40px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .imageSection {
+    padding: 15px;
+  }
+}
+
 /* --------------------------- Projects Page --------------------------- */
 
 .projectDiv {
