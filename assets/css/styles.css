@@ -717,6 +717,14 @@
     );
 }
 
+.paddingAcc01 {
+  background: repeating-radial-gradient(
+      circle at 0 0, 
+      #002491,
+      #001555 150px
+    );
+}
+
 /* --------------------------- Projects Page --------------------------- */
 
 .projectDiv {
