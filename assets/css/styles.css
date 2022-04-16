@@ -696,6 +696,11 @@
   background-color: whitesmoke;
 }
 
+.paraAcc {
+  color: whitesmoke;
+  font-size: 17px;
+}
+
 /* --------------------------- Projects Page --------------------------- */
 
 .projectDiv {
