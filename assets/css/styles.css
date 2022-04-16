@@ -683,6 +683,19 @@
   }
 }
 
+.italicAcc {
+  color: whitesmoke;
+  font-style: italic;
+  font-size: 17px;
+}
+
+.hrBar {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  height: 2px;
+  background-color: whitesmoke;
+}
+
 /* --------------------------- Projects Page --------------------------- */
 
 .projectDiv {
