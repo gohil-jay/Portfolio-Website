@@ -701,6 +701,14 @@
   font-size: 17px;
 }
 
+.paddingAcc0 {
+  background: repeating-radial-gradient(
+      circle at 0 0, 
+      #252525,
+      #030303 50px
+    );
+}
+
 /* --------------------------- Projects Page --------------------------- */
 
 .projectDiv {
