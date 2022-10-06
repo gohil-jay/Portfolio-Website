@@ -247,6 +247,16 @@
   transform: skewY(-4deg);
 }
 
+.exp39 {
+  background-image: linear-gradient(to bottom right, #7399c6, #417dc4);
+  transform: skewY(-4deg);
+}
+
+.exp40 {
+  background-image: linear-gradient(to bottom right, #007296, #01465c);
+  transform: skewY(-4deg);
+}
+
 .exp16 {
   background-image: linear-gradient(to bottom right, #a02200, #eb5830);
   transform: skewY(-4deg);
@@ -349,6 +359,16 @@
 
 .exp36 {
   background-image: linear-gradient(to bottom right, #ffd000, #d6af00);
+  transform: skewY(-4deg);
+}
+
+.exp37 {
+  background-image: linear-gradient(to bottom right, #019bd7, #00658d);
+  transform: skewY(-4deg);
+}
+
+.exp38 {
+  background-image: linear-gradient(to bottom right, #ed6d0a, #a44700);
   transform: skewY(-4deg);
 }
 
@@ -702,67 +722,35 @@
 }
 
 .paddingAcc0 {
-  background: repeating-radial-gradient(
-      circle at 0 0, 
-      #252525,
-      #030303 50px
-    );
+  background: repeating-radial-gradient( circle at 0 0, #252525, #030303 50px );
 }
 
 .paddingAcc1 {
-  background: repeating-radial-gradient(
-      circle at 0 0, 
-      #396afc,
-      #254ab9 150px
-    );
+  background: repeating-radial-gradient( circle at 0 0, #396afc, #254ab9 150px );
 }
 
 .paddingAcc01 {
-  background: repeating-radial-gradient(
-      circle at 0 0, 
-      #002491,
-      #001555 150px
-    );
+  background: repeating-radial-gradient( circle at 0 0, #002491, #001555 150px );
 }
 
 .paddingAcc2 {
-  background: repeating-radial-gradient(
-      circle at 0 0,
-      #983ac9,
-      #651491 150px
-    );
+  background: repeating-radial-gradient( circle at 0 0, #983ac9, #651491 150px );
 }
 
 .paddingAcc3 {
-  background: repeating-radial-gradient(
-      circle at 0 0,
-      #dd503d,
-      #9c1b09 150px
-    );
+  background: repeating-radial-gradient( circle at 0 0, #dd503d, #9c1b09 150px );
 }
 
 .paddingAcc4 {
-  background: repeating-radial-gradient(
-      circle at 0 0,
-      #01745c,
-      #004939 150px
-    );
+  background: repeating-radial-gradient( circle at 0 0, #01745c, #004939 150px );
 }
 
 .paddingAcc5 {
-  background: repeating-radial-gradient(
-      circle at 0 0,
-      #ffd735,
-      #f7ad35 150px
-    );
+  background: repeating-radial-gradient( circle at 0 0, #ffd735, #f7ad35 150px );
 }
 
 .paddingAcc6 {
-  background: repeating-radial-gradient(
-      circle at 0 0,
-      #960002,
-      #530002 150px
-    );
+  background: repeating-radial-gradient( circle at 0 0, #960002, #530002 150px );
 }
 
 /* --------------------------- Projects Page --------------------------- */
